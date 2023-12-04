@@ -10,6 +10,7 @@ All files are included above, including logic diagrams, PCB design files, gerber
 ![](https://github.com/Nakazoto/UE-0.1/blob/main/Gates_v2.png)
 
 ## Bill of Materials
+Part counts were done by hand and could be wrong. Buy extra!
 
 | Part | Part Number | Qty. | Notes | 
 | ------------- | ------------- | ------------- | ------------- |
