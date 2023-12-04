@@ -7,6 +7,8 @@ All files are included above, including logic diagrams, PCB design files, gerber
 
 ![](https://github.com/Nakazoto/UE-0.1/blob/main/IMG_3282.JPG)
 
+![](https://github.com/Nakazoto/UE-0.1/blob/main/Gates_v2.png)
+
 ## Bill of Materials
 
 | Part | Part Number | Qty. | Notes | 
